@@ -217,7 +217,7 @@ span.badge {
 }
 
 span.badge.enfase {
-    font-family: "Roboto";
+    font-family: "Roboto-Regular";
     margin-top: 10px;
     width: 215px;
     font-size: 15px;
@@ -291,7 +291,7 @@ footer {
 }
 
 footer h1 {
-    font-family: 'Roboto';
+    font-family: 'Roboto-Regular';
     text-transform: uppercase;
     color: white;
     font-size: 16px;
