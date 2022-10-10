@@ -1,4 +1,4 @@
-alert ('Seja bem vindo ao nosso novo site!')
+alert ('Seja bem-vindo ao nosso novo site!')
 
 function abreFechaMenu() {
     // navbar -tag nav
