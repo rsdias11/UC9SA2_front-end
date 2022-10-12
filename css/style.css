@@ -111,6 +111,12 @@ main {
     background-color: black;
 }
 
+.submenu {
+    background-color: #2F5598;
+}
+
+
+
 .submenuj {
     background-color: #2F5598;
     display: flex;
@@ -119,8 +125,6 @@ main {
     width: 100%;
     height: 35px;
 }
-
-
 
 .mostraEscondeMenu {
     left: 0 !important;
