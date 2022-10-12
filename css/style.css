@@ -115,8 +115,6 @@ main {
     background-color: #2F5598;
 }
 
-
-
 .submenuj {
     background-color: #2F5598;
     display: flex;
@@ -161,7 +159,6 @@ section.submenu a {
     height: 35px;
     padding: 5px;
 }
-
 
 div.container-grid h1 {
     font-family: "Mouse-Memoirs";
